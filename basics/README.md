@@ -1,2 +1,2 @@
-#!/bin/bash
-hellohello
+^#!/bin/bash
+hello
