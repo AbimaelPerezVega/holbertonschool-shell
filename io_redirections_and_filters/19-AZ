@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "YourInput" | tr 'Acf' 'Ze'
+tr AZ | ce
