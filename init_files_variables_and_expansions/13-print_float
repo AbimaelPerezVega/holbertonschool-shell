@@ -1,2 +1,2 @@
 #!/bin/bash
-print("{:.2f}".format(float(os.environ.get('NUM'))))
+printf '%.2f\n' $NUM
