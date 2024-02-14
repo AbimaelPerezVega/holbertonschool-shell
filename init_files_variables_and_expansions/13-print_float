@@ -1,2 +1,2 @@
 #!/bin/bash
-l
+print("{:.2f}".format(float(os.environ.get('NUM'))))
